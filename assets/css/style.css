@@ -18,10 +18,11 @@ body {
   background: transparent;
 }
 
+
 body::before {
   content: "";
   position: fixed;
-  background: #11063b url("../img/bg.webp") top right no-repeat;
+  background: #11063b ; /* Adjust the background-position property */
   background-size: cover;
   left: 0;
   right: 0;
@@ -29,6 +30,7 @@ body::before {
   height: 100vh;
   z-index: -1;
 }
+
 
 @media (min-width: 1024px) {
   body::before {
