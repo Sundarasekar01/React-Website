@@ -10,7 +10,9 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  background-color: #040404;
+  /* background-color: #040404; */
+  background-color: #392589;
+
   color: #fff;
   position: relative;
   background: transparent;
@@ -19,7 +21,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bg.webp") top right no-repeat;
+  background: #392589 url("../img/bg.webp") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -154,7 +156,10 @@ h6 {
   left: 0;
   top: 0;
   right: 0;
+  
+  /* background: rgba(0, 0, 0, 0.9); */
   background: rgba(0, 0, 0, 0.9);
+
 }
 
 #header.header-top .social-links,
@@ -354,7 +359,8 @@ section.section-show {
 }
 
 section .container {
-  background: rgba(0, 0, 0, 0.9);
+  background: rgba(17, 78, 143, 0.9);
+  /* background: rgba(0, 0, 0, 0.9); */
   padding: 30px;
 }
 
@@ -809,12 +815,12 @@ section .container {
   position: relative;
   overflow: hidden;
   z-index: 1;
-  background: rgba(0, 0, 0, 0.6);
+  background: #392589;
 }
 
 .portfolio .portfolio-wrap::before {
   content: "";
-  background: rgba(0, 0, 0, 0.6);
+  background: #392589;
   position: absolute;
   left: 30px;
   right: 30px;
