@@ -11,7 +11,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   /* background-color: #040404; */
-  background-color: #392589;
+  background-color: #11063b;
 
   color: #fff;
   position: relative;
@@ -21,7 +21,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #392589 url("../img/bg.webp") top right no-repeat;
+  background: #11063b url("../img/bg.webp") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -158,7 +158,7 @@ h6 {
   right: 0;
   
   /* background: rgba(0, 0, 0, 0.9); */
-  background: rgba(0, 0, 0, 0.9);
+  background: rgba(3, 3, 35, 0.9);
 
 }
 
