@@ -1,7 +1,18 @@
+import Header from "./components/Header/Header";
+import Hero from "./components/Hero/Hero";
+
 
 function App() {
   return (
-    <span>thudagiyalo</span>
+
+<div className="App">
+  <Header/>
+  <Hero/>
+
+  
+</div>
+
+
   );
 }
 
