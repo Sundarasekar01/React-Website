@@ -20,9 +20,11 @@ duration:2,type:'spring'
             }}
             
             >
-              Discover <br />
-              most Suitable <br />
-              Property
+
+  
+ Make your <br />
+ dream property  <br />
+ a reality
             </motion.h1>
           </div>
 
@@ -77,7 +79,7 @@ duration:2,type:'spring'
            }}
           
           className="image-container">
-            <img src="./hero-image.png" alt="" />
+            <img src="./h2.webp" alt="" />
           </motion.div>
         </div>
       </div>

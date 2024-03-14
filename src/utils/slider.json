@@ -1,38 +1,34 @@
 [
+  
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": "Backwater View Villas",
+    "price": "75,500",
+    "detail": "Vembanad Lake Road, Alleppey, Kerala",
+    "image": "./k2.webp"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "name": "Tea Garden Residency",
+    "price": "40,200",
+    "detail": "Munnar Tea Estates, Munnar, Kerala",
+    "image": "./k3.webp"
+  },
+  
+  {
+    "name": "Hillside Serenity Apartments",
+    "price": "48,900",
+    "detail": "Wayanad Hills, Kalpetta, Kerala",
+    "image": "./k5.webp"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "name": "Riverfront Residences",
+    "price": "85,300",
+    "detail": "Periyar River Bank, Idukki, Kerala",
+    "image": "./k6.webp"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
-  },
-  {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
-  },
-  {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "name": "Lakeside Retreat Cottages",
+    "price": "58,600",
+    "detail": "Ashtamudi Lake Shore, Kollam, Kerala",
+    "image": "./k7.webp"
   }
 ]

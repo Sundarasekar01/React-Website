@@ -15,7 +15,7 @@ const Contact = () => {
           <span className="secondaryText">
             We always ready to help by providing the best services for you.{" "}
             <br />
-            We belive a good place to live that can make your life better.
+            {/* We belive a good place to live that can make your life better. */}
           </span>
 
           <div className="flexColStart contactModes">
@@ -33,7 +33,7 @@ const Contact = () => {
 
                   <div className="flexColStart detail">
                     <span className="primaryText">Chat Now</span>
-                    <span className="secondaryText">021 123 345 23</span>
+                    <span className="secondaryText">+91 81100 08541</span>
                   </div>
                 </div>
               </div>
@@ -49,7 +49,7 @@ const Contact = () => {
 
                   <div className="flexColStart detail">
                     <span className="primaryText">Call Now</span>
-                    <span className="secondaryText">021 123 345 23</span>
+                    <span className="secondaryText">+91 81100 08541</span>
                   </div>
                 </div>
               </div>
@@ -71,7 +71,7 @@ const Contact = () => {
 
                   <div className="flexColStart detail">
                     <span className="primaryText">Video now</span>
-                    <span className="secondaryText">021 123 345 23</span>
+                    <span className="secondaryText">+91 81100 08541</span>
                   </div>
                 </div>
               </div>
@@ -87,7 +87,7 @@ const Contact = () => {
 
                   <div className="flexColStart detail">
                     <span className="primaryText">Message Now</span>
-                    <span className="secondaryText">021 123 345 23</span>
+                    <span className="secondaryText">+91 81100 08541</span>
                   </div>
                 </div>
               </div>
@@ -104,7 +104,7 @@ const Contact = () => {
 
         <div className="c-right">
           <div className="image-container">
-            <img src="./contact.jpg" alt="contact" />
+            <img src="./h1.webp" alt="contact" />
           </div>
         </div>
       </div>
