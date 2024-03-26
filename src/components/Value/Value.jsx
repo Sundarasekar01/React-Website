@@ -21,7 +21,7 @@ const Value = () => {
 
         <div className="v-left">
           <div className="image-container">
-            <img src="./r2.png" alt="" />
+            <img src="./value.png" alt="" />
           </div>
         </div>
 

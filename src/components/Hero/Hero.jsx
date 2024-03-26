@@ -79,7 +79,7 @@ duration:2,type:'spring'
            }}
           
           className="image-container">
-            <img src="./r1.png" alt="" />
+            <img src="./hero-image.png" alt="" />
           </motion.div>
         </div>
       </div>
