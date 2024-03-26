@@ -79,7 +79,7 @@ duration:2,type:'spring'
            }}
           
           className="image-container">
-            <img src="./h2.webp" alt="" />
+            <img src="./r1.png" alt="" />
           </motion.div>
         </div>
       </div>

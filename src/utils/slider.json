@@ -4,31 +4,31 @@
     "name": "Backwater View Villas",
     "price": "75,500",
     "detail": "Vembanad Lake Road, Alleppey, Kerala",
-    "image": "./k2.webp"
+    "image": "./r1.png"
   },
   {
     "name": "Tea Garden Residency",
     "price": "40,200",
     "detail": "Munnar Tea Estates, Munnar, Kerala",
-    "image": "./k3.webp"
+    "image": "./r3.png"
   },
   
   {
     "name": "Hillside Serenity Apartments",
     "price": "48,900",
     "detail": "Wayanad Hills, Kalpetta, Kerala",
-    "image": "./k5.webp"
+    "image": "./r1.png"
   },
   {
     "name": "Riverfront Residences",
     "price": "85,300",
     "detail": "Periyar River Bank, Idukki, Kerala",
-    "image": "./k6.webp"
+    "image": "./r2.png"
   },
   {
     "name": "Lakeside Retreat Cottages",
     "price": "58,600",
     "detail": "Ashtamudi Lake Shore, Kollam, Kerala",
-    "image": "./k7.webp"
+    "image": "./r3.png"
   }
 ]
